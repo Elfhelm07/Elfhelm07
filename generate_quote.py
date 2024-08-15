@@ -12,16 +12,18 @@ quote_author = f"- {quote_data['author']}"
 image = Image.new('RGB', (800, 400), color=(255, 255, 255))
 draw = ImageDraw.Draw(image)
 
-# Load a default font
-quote_font = ImageFont.load_default()
-author_font = ImageFont.load_default()
+# Load the custom font (adjust the path if needed)
+quote_font = ImageFont.truetype("arial.ttf", 32)
+author_font = ImageFont.truetype("arial.ttf", 24)
 
 # Calculate text size and position for the quote
-quote_width, quote_height = draw.textsize(quote_text, font=quote_font)
+quote_bbox = draw.textbbox((0, 0), quote_text, font=quote_font)
+quote_width, quote_height = quote_bbox[2] - quote_bbox[0], quote_bbox[3] - quote_bbox[1]
 quote_position = ((image.width - quote_width) / 2, (image.height - quote_height) / 3)
 
 # Calculate text size and position for the author
-author_width, author_height = draw.textsize(quote_author, font=author_font)
+author_bbox = draw.textbbox((0, 0), quote_author, font=author_font)
+author_width, author_height = author_bbox[2] - author_bbox[0], author_bbox[3] - author_bbox[1]
 author_position = ((image.width - author_width) / 2, quote_position[1] + quote_height + 20)
 
 # Draw the quote text
