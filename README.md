@@ -93,7 +93,7 @@ An innovative note-taking app that helps you manage your knowledge seamlessly.
 
 ## 💬 Quote
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+![Quote](./quote.png)
 <!--## 💬 Quote
 
 ![Quote](https://zenquotes.io/api/random/3d.png)-->
