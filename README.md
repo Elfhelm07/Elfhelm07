@@ -60,26 +60,35 @@ A sync service for managing your projects efficiently across multiple devices.
 An innovative note-taking app that helps you manage your knowledge seamlessly.
 
 ---
-
+<!--
 ## 📝 Blog & Writing
 
 - [My Dev Blog](https://yourbloglink.com): Writing about AI/ML, Backend Development, and more!
-
+-->
 ---
 
-## 📫 Contact Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/a" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to" /></a>
+<a href="https://www.linkedin.com/in/susmit-kulkarni-5a626124b/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/20410464/elfhelm" target="blank"><img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://kaggle.com/a" target="blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.codechef.com/users/elfhelm" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.hackerrank.com/profile/HR325" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://codeforces.com/profile/a" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/elfhelm/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.hackerearth.com/a" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerEarth-323754?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth" /></a>
+</p>
 
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
 
 ---
-
+<!--
 ## 🏆 Achievements
 
-[![Codechef](https://img.shields.io/badge/Codechef-%230A0A0A.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername)
+[![Codechef](https://img.shields.io/badge/Codechef-%230A0A0A.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/elfhelm)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@yourusername)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/elfhelm/)
+-->
 ---
 
 ## 💬 Quote
