@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:  # Allows manual triggering from the GitHub UI
 
+permissions:
+  contents: write  # Grant write permissions for pushing changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -34,3 +37,5 @@ jobs:
         git add quote.png
         git commit -m "Update quote"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.Quote_token }}  # Use the GITHUB_TOKEN provided by GitHub Actions
