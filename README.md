@@ -42,7 +42,7 @@ I'm a passionate Backend Developer and AI/ML Enthusiast from India.
 
 ## 📊 GitHub Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=elfhelm07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&token=YOUR_GITHUB_TOKEN">
+<a href="https://github-readme-stats.vercel.app/api?username=elfhelm07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&token=API_token">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elfhelm07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elfhelm07&layout=compact&theme=dark">
