@@ -91,10 +91,10 @@ An innovative note-taking app that helps you manage your knowledge seamlessly.
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/elfhelm/)
 -->
 ---
-
+<!--
 ## 💬 Quote
 
-![Quote](./quote.png)
+![Quote](./quote.png)-->
 <!--## 💬 Quote
 
 ![Quote](https://zenquotes.io/api/random/3d.png)-->
