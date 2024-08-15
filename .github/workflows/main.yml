@@ -1,0 +1,34 @@
+name: Update README with Random Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests pillow
+
+    - name: Generate quote image
+      run: python generate_quote.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'action@github.com'
+        git add quote.png
+        git commit -m "Update quote"
+        git push
